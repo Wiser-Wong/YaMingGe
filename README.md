@@ -2,7 +2,7 @@
 
 > 结合生辰八字、五行平衡、音律、字型、数理与文化底蕴的智能取名网站。纯前端、无后端、无需登录，手机与电脑均可使用。
 >
-> 在线地址：**https://wiser-wong.github.io/YaMingGe/**　　作者：祥宇(Skyline)
+> 在线地址：** https://wiser-wong.github.io/YaMingGe/ **　　作者：祥宇(Skyline)
 
 ---
 
